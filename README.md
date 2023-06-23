@@ -49,8 +49,8 @@ $ yarn run test:cov
   - Nest.js
   - TypeORM
   - MySQL
-- Documentación:
-  - Swagger: este se encuentra dentro del proyecto que podrás revisar una vez arranque la aplicación con la ruta ```/docs```
+<!-- - Documentación:
+  - Swagger: este se encuentra dentro del proyecto que podrás revisar una vez arranque la aplicación con la ruta ```/docs``` -->
 
 ## Estructura del Proyecto
 
