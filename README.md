@@ -66,5 +66,3 @@ $ yarn run test:cov
 ## Licencia
 
 la licencia de este proyecto es la de Nest que es [MIT licensed](LICENSE).
-# adc-med-backend
-# adc-med-backend
